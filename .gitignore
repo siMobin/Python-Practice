@@ -1,0 +1,15 @@
+.vscode
+*temp*
+*.pyc
+
+*output*
+*watermark_output*
+ev
+ck*
+*.docx
+*.csv
+
+# Temporary ignore list...
+# .*ignore
+Tracker_demo/*
+# f3.py
